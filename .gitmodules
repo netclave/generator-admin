@@ -1,0 +1,4 @@
+[submodule "lib/apis"]
+	path = lib/apis
+	url = git@github.com:netclave/apis.git
+        branch = master
