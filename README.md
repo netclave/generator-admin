@@ -30,14 +30,6 @@ You can also [get support for NetClave](https://www.blackvisor.io/contact-us/)!
 
 There are many ways to contribute, of which development is only one! Find out [how to get involved](https://www.blackvisor.io/contributors), including as translator, designer, tester, helping others and much more! 😍
 
-
-### Prerequirements 👩‍💻
-
-1. Golang
-2. Git
-3. Make
-
-
 ### Building code 🏗
 
 Just run the following command:
